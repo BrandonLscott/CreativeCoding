@@ -1,0 +1,5 @@
+https://studio.code.org/projects/applab/_jqCqfdF4ktsW2R8cg3VMd2aQcWFlqu2IW_UFDT2EkY
+
+
+Run and Hide is a a clicker game where you just need to click the moving X. 
+if you click the background you loose points. It gets faster every time you play. 
